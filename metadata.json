@@ -1,7 +1,7 @@
 {
-    "name": "Updated Andy NFT",
+    "name": "Modified Andy NFT",
     "symbol": "ATT",
-    "description": "Yeah am not hidden anymore!",
+    "description": "this is not a good setup anymore!",
     "seller_fee_basis_points": 10000,
     "image": "https://raw.githubusercontent.com/loopcreativeandy/assets/main/update.png",
     "attributes": [
