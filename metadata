@@ -1,0 +1,28 @@
+{
+    "name": "Updated Andy NFT",
+    "symbol": "ATT",
+    "description": "Yeah am not hidden anymore!",
+    "seller_fee_basis_points": 10000,
+    "image": "https://raw.githubusercontent.com/loopcreativeandy/assets/main/update.png",
+    "attributes": [
+    ],
+    "collection": {
+      "name": "Unhidden Andy",
+      "family": "Andy NFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/loopcreativeandy/assets/main/update.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "CreatorVknWbvxnF1a2jtKFB1sBaWgq4Aj2buNo5MYN",
+          "share": 100
+        }
+      ]
+    }
+  }
